@@ -1,4 +1,4 @@
-# Power_BI
+# **Power BI**  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
 ## Advanced Power BI Solutions for Data Analytics
 From data preparation and modeling to creating interactive dashboards and reports, this repository covers a range of topics to enhance data-driven decision-making processes. 
 
@@ -9,7 +9,6 @@ Key Features:
 - Data Modeling Techniques: Best practices for structuring your data within Power BI to support efficient and meaningful analytics.
 - Integration Guides: How to seamlessly integrate Power BI with other data sources and analytics tools, expanding its capabilities.
 
-## **Power BI**  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
 ### **E-commerce Sales Analysis**
 
 <div align="center">
