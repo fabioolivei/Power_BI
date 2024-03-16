@@ -9,7 +9,7 @@ Key Features:
 - Data Modeling Techniques: Best practices for structuring your data within Power BI to support efficient and meaningful analytics.
 - Integration Guides: How to seamlessly integrate Power BI with other data sources and analytics tools, expanding its capabilities.
 
-### **E-commerce Sales Analysis**
+* ### **E-commerce Sales Analysis**
 
 <div align="center">
 
