@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[Link do Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzE5MmI4YTktMTg5ZC00ZDVlLTk5ZmItZmE1NWJhZTA1ZTQ1IiwidCI6ImIwM2UxZjQwLWJmZmQtNDVlOS1hNDk2LTg0NzUwODU2NmM5YiJ9.pbi)
+[Link do Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzE5MmI4YTktMTg5ZC00ZDVlLTk5ZmItZmE1NWJhZTA1ZTQ1IiwidCI6ImIwM2UxZjQwLWJmZmQtNDVlOS1hNDk2LTg0NzUwODU2NmM5YiJ9)
 
 </div>
 
