@@ -20,7 +20,8 @@
 
 <div align="center">
 
-[Link do Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzE5MmI4YTktMTg5ZC00ZDVlLTk5ZmItZmE1NWJhZTA1ZTQ1IiwidCI6ImIwM2UxZjQwLWJmZmQtNDVlOS1hNDk2LTg0NzUwODU2NmM5YiJ9)
+![WhatsApp Video 2024-09-15 at 11 58 28](https://github.com/user-attachments/assets/38250220-6ae0-48e6-93ff-2611cb83228b) 
+
 
 </div>
 
