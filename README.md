@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![WhatsApp Video 2024-09-15 at 11 58 28](https://github.com/user-attachments/assets/cbd24ffe-42f3-4761-9388-34a56ef368bf)
+<iframe title="Mercado_de_trabalho_br" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzE5MmI4YTktMTg5ZC00ZDVlLTk5ZmItZmE1NWJhZTA1ZTQ1IiwidCI6ImIwM2UxZjQwLWJmZmQtNDVlOS1hNDk2LTg0NzUwODU2NmM5YiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 </div>
