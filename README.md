@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<iframe title="Mercado_de_trabalho_br" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzE5MmI4YTktMTg5ZC00ZDVlLTk5ZmItZmE1NWJhZTA1ZTQ1IiwidCI6ImIwM2UxZjQwLWJmZmQtNDVlOS1hNDk2LTg0NzUwODU2NmM5YiJ9" frameborder="0" allowFullScreen="true"></iframe>
+![]("https://app.powerbi.com/view?r=eyJrIjoiMzE5MmI4YTktMTg5ZC00ZDVlLTk5ZmItZmE1NWJhZTA1ZTQ1IiwidCI6ImIwM2UxZjQwLWJmZmQtNDVlOS1hNDk2LTg0NzUwODU2NmM5YiJ9")
 
 
 </div>
