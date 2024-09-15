@@ -18,10 +18,11 @@
 
 **Result:** The insights gained from our comprehensive e-commerce sales analysis led to significant improvements in the company's performance. By focusing on high-performing regions and products, we were able to increase target product sales by 20% and reduce marketing expenses by 15%. These outcomes demonstrate the effectiveness of data-driven decision-making in optimizing sales strategies and marketing expenditures, ultimately contributing to the company's bottom line.
 
+* ### [**Brazilian labor market**](https://github.com/fabioolivei/Power_BI/blob/main/README.md)
+
 <div align="center">
 
-![WhatsApp Video 2024-09-15 at 11 58 28](https://github.com/user-attachments/assets/38250220-6ae0-48e6-93ff-2611cb83228b) 
-
+[](https://github.com/user-attachments/assets/5c0ee433-8b23-4fff-925d-efa5c9a4135f)
 
 </div>
 
